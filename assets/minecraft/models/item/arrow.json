@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"1": "nirn:arrows"
+		"1": "nirn:arrows/material"
 	},
 	"elements": [
 		{

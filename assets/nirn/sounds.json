@@ -1,0 +1,12 @@
+{
+  "bow.shoot": {
+    "category": "mob",
+	"subtitle": "bow.shoot",
+    "sounds": ["nirn:bow/shoot_0","nirn:bow/shoot_1","nirn:bow/shoot_2"]
+  },
+  "bow.tension": {
+    "category": "player",
+	"subtitle": "bow.tension",
+    "sounds": ["nirn:bow/tension_0","nirn:bow/tension_1","nirn:bow/tension_2","nirn:bow/tension_3"]
+  }
+}

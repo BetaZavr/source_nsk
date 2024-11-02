@@ -1,5 +1,25 @@
 ﻿# Tab
-itemGroup.nirn.items=EGO Предметы
+itemGroup.nirn.weapons=EGO Оружие
 itemGroup.nirn.armors=EGO Броня
 
-# Item
+# Arrows
+item.dwemer_arrow.name=Двемерская Стрела
+item.sunhallowed_elven_arrow.name=Солнечная Эльфийская Стрела
+item.bloodcursed_elven_arrow.name=Эльфийская Стрела Кровавого Проклятья
+item.elven_arrow.name=Эльфийская Стрела
+item.ebony_arrow.name=Эбонитовая Стрела
+item.falmer_arrow.name=Фалмерская Стрела
+item.dwemer_sphere_centurion_arrow.name=Стрела Двемерской Сферы
+item.glass_arrow.name=Стеклянная Стрела
+item.steel_arrow.name=Стальная Стрела
+item.forsworn_arrow.name=Стрела Изгоев
+item.bound_arrow.name=Призванная Стрела
+item.orcish_arrow.name=Орочья Стрела
+item.nord_hero_arrow.name=Нордская Стрела Героя
+item.iron_arrow.name=Железная Стрела
+item.ancient_nord_arrow.name=Древняя Нордская Стрела
+item.daedric_arrow.name=Даедрическая Стрела
+item.dragon_arrow.name=Драконья Стрела
+
+# Bows
+item.long_bow.name=Длинный лук

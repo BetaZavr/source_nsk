@@ -2,4 +2,24 @@
 itemGroup.nirn.weapons=EGO Weapon
 itemGroup.nirn.armors=EGO Armors
 
-# Item
+# Arrows
+item.dwemer_arrow.name=Dwemer Arrow
+item.sunhallowed_elven_arrow.name=Sunhallowed Elven Arrow
+item.bloodcursed_elven_arrow.name=Bloodcursed Elven Arrow
+item.elven_arrow.name=Elven Arrow
+item.ebony_arrow.name=Ebony Arrow
+item.falmer_arrow.name=Falmer Arrow
+item.dwemer_sphere_centurion_arrow.name=Dwarven Sphere Centurion Arrow
+item.glass_arrow.name=Glass Arrow
+item.steel_arrow.name=Steel Arrow
+item.forsworn_arrow.name=Forsworn Arrow
+item.bound_arrow.name=Bound Arrow
+item.orcish_arrow.name=Orcish Arrow
+item.nord_hero_arrow.name=Nord Hero Arrow
+item.iron_arrow.name=Iron Arrow
+item.ancient_nord_arrow.name=Ancient Nord Arrow
+item.daedric_arrow.name=Daedric Arrow
+item.dragon_arrow.name=Dragon Arrow
+
+# Bows
+item.long_bow.name=Long Bow

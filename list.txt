@@ -25,5 +25,6 @@ assets/nirn/sounds/bow/tension_1.ogg
 assets/nirn/sounds/bow/tension_2.ogg
 assets/nirn/sounds/bow/tension_3.ogg
 assets/nirn/textures/arrows/material.png
+assets/nirn/textures/arrows/steel.png
 assets/nirn/textures/bows/long_bow.png
 assets/nirn/textures/empty.png

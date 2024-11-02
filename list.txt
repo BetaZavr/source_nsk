@@ -6,7 +6,6 @@ assets/minecraft/textures/gui/title/background/panorama_2.png
 assets/minecraft/textures/gui/title/background/panorama_3.png
 assets/minecraft/textures/gui/title/background/panorama_4.png
 assets/minecraft/textures/gui/title/background/panorama_5.png
-assets/nirn/blockstates/steel_arrow.json
 assets/nirn/lang/en_us.lang
 assets/nirn/lang/ru_ru.lang
 assets/nirn/models/block/obj/steel_arrow.mtl

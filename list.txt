@@ -6,12 +6,16 @@ assets/minecraft/textures/gui/title/background/panorama_2.png
 assets/minecraft/textures/gui/title/background/panorama_3.png
 assets/minecraft/textures/gui/title/background/panorama_4.png
 assets/minecraft/textures/gui/title/background/panorama_5.png
+assets/nirn/blockstates/steel_arrow.json
 assets/nirn/lang/en_us.lang
 assets/nirn/lang/ru_ru.lang
+assets/nirn/models/block/obj/steel_arrow.mtl
+assets/nirn/models/block/obj/steel_arrow.obj
 assets/nirn/models/item/animations/bows/long_bow.animation.json
 assets/nirn/models/item/geo/bows/long_bow.geo.json
 assets/nirn/models/item/iron_arrow.json
 assets/nirn/models/item/long_bow.json
+assets/nirn/models/item/steel_arrow.json
 assets/nirn/sounds.json
 assets/nirn/sounds/bow/shoot_0.ogg
 assets/nirn/sounds/bow/shoot_1.ogg

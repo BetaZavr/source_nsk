@@ -12,11 +12,11 @@ assets/nirn/blockstates/iron_arrow.json
 assets/nirn/blockstates/steel_arrow.json
 assets/nirn/lang/en_us.lang
 assets/nirn/lang/ru_ru.lang
-assets/nirn/models/block/obj/ancient_nord_arrow.obj
-assets/nirn/models/block/obj/arrows.mtl
-assets/nirn/models/block/obj/daedric_arrow.obj
-assets/nirn/models/block/obj/iron_arrow.obj
-assets/nirn/models/block/obj/steel_arrow.obj
+assets/nirn/models/block/ancient_nord_arrow.obj
+assets/nirn/models/block/arrows.mtl
+assets/nirn/models/block/daedric_arrow.obj
+assets/nirn/models/block/iron_arrow.obj
+assets/nirn/models/block/steel_arrow.obj
 assets/nirn/models/item/ancient_nord_arrow.json
 assets/nirn/models/item/animations/bows/long_bow.animation.json
 assets/nirn/models/item/daedric_arrow.json
@@ -24,6 +24,9 @@ assets/nirn/models/item/geo/bows/long_bow.geo.json
 assets/nirn/models/item/iron_arrow.json
 assets/nirn/models/item/long_bow.json
 assets/nirn/models/item/steel_arrow.json
+assets/nirn/models/quiver/ancient_nord_quiver.obj
+assets/nirn/models/quiver/arrows.mtl
+assets/nirn/models/quiver/daedric_quiver.obj
 assets/nirn/sounds/bow/shoot_0.ogg
 assets/nirn/sounds/bow/shoot_1.ogg
 assets/nirn/sounds/bow/shoot_2.ogg
